@@ -13,7 +13,7 @@ function HomePage() {
           <Carousel.Item className="welcome-carousel-image1 ">
               <Container>
                 <Carousel.Caption>
-                  <h1>Welcome to Bethany's Pie Shop</h1>
+                  <h1>Welcome to Bill's Pie Shop</h1>
                   <p>Home to the best pies on the internet.</p>
                 </Carousel.Caption>
               </Container>
